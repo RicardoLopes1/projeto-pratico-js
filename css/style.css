@@ -61,3 +61,10 @@ input {
     width: 30px; 
     background-color: rgb(212, 34, 34);
 }
+
+.tarefas{
+    background-color: rgb(18, 132, 185); 
+    width: 90%; 
+    margin: 0px auto; 
+    text-align: left;
+}
